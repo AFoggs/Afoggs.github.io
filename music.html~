@@ -9,9 +9,9 @@
 	<header>
 		<nav>
 			<ul>
-				<li>Resume</li>
-				<li>Writing</li>
-				<li>Music</li>
+				<li><a href="resume.html">Resume</a></li>
+				<li><a href="writing.html">Writing</a></li>
+				<li><a href="music.html">Music</a></li>
 			</ul>
 		</nav>
 	</header>
