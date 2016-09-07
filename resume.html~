@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Resume</title>
-	<meta charset="utf-8" />
+  <title>Resume</title>
+  <meta charset="utf-8" />
 </head>
 
 <body>
@@ -17,9 +17,9 @@
     </nav>
   </header>
 
-	<picture>
-		<img src="face.jpg" alt="This is a terrible picture of my face" />
-	</picture>
+  <picture>
+    <img src="face.jpg" alt="This is a terrible picture of my face" />
+  </picture>
 
   <section class="contact-information">
     <h2>Antoine Foggs</h2>
