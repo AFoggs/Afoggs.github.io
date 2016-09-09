@@ -40,7 +40,7 @@
         grasping desperately for sunlight only a few hours away.
       </p>
       <picture>
-        <img src="panic.jpg" alt="The source of my madness." />
+        <img src="image/panic.jpg" alt="The source of my madness." />
       </picture>
     <h3>soft scent</h3>
       <p>
@@ -55,7 +55,7 @@
         all around me<br>
       </p>
       <picture>
-        <img src="scent.jpg"  alt="Soft scent carried on the wind"/>
+        <img src="image/scent.jpg"  alt="Soft scent carried on the wind"/>
       </picture>
   </section>
 
