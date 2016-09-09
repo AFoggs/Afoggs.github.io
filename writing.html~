@@ -19,8 +19,8 @@
 
   <section>
     <h2>Why I write</h2>
-      <p>Art, words, images, the world around me, the sound of sweet voices and symphonies; in it lies</br>
-       my addiction to consume such wonders, but also to join the world as a creator. I guess that's</br>
+      <p>Art, words, images, the world around me, the sound of sweet voices and symphonies; in it lies<br>
+       my addiction to consume such wonders, but also to join the world as a creator. I guess that's<br>
        why I started writing. I wanted to be consumed.
       </p>
   </section>
@@ -28,14 +28,14 @@
   <section>
     <h2>Poetry</h2>
     <h3>late night panic</h3>
-      <p>and in his indulgence of thought,</br>
-       his sanity was foregone;</br>
-       left alongside the sun as it slipped beyond the horizon.</br>
-       gently. for the madness seeps in like a slow poison.</br>
-       the anguish only when it's far too late.</br>
-       and he screams.</br>
-       and he screams.</br>
-       and he gasps hopelessly for useless oxygen,</br>
+      <p>and in his indulgence of thought,<br>
+       his sanity was foregone;<br>
+       left alongside the sun as it slipped beyond the horizon.<br>
+       gently. for the madness seeps in like a slow poison.<br>
+       the anguish only when it's far too late.<br>
+       and he screams.<br>
+       and he screams.<br>
+       and he gasps hopelessly for useless oxygen,<br>
        grasping desperately for sunlight only a few hours away.
       </p>
       <picture>
@@ -43,18 +43,18 @@
       </picture>
     <h3>soft scent</h3>
       <p>
-        Sweet memories carried</br>
-        on the wind</br>
-        quiet but swift;</br>
-        swift but loud</br>
-        </br>
-        Gone you are</br>
-        but your scent—</br>
-        it still lingers</br>
-        all around me</br>
+        Sweet memories carried<br>
+        on the wind<br>
+        quiet but swift;<br>
+        swift but loud<br>
+        <br>
+        Gone you are<br>
+        but your scent—<br>
+        it still lingers<br>
+        all around me<br>
       </p>
       <picture>
-        <img src="scent.jpg" alt="Soft scent carried on the wind"/>
+        <img src="scent.jpg"  alt="Soft scent carried on the wind"/>
       </picture>
   </section>
 
