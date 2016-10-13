@@ -1,0 +1,115 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/* stylelint-disable */
+/* Keep reset CSS to one minified line */
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+/* stylelint-enable */
+
+/* ===== BASE STYLES ===== */
+
+/*
+Text following Major Second Modular Scale
+http://www.modularscale.com/?18&px&1.2&web&text
+*/
+
+html {
+  font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", sans-serif;
+  font-size: 1.125em; /* 18px */
+  line-height: 1.22222222em; /* 22px = 1 gridline*/
+  background-color: #b3b3b3;
+  padding: 0.55555555em; /* 10px / 18 px */
+}
+h1{
+  font-size: 2.027em; /*36.491px*/
+  line-height: 1.150968732em; /*42px / 36.491px*/
+  text-align: center;
+}
+h2{
+  font-size: 1.802em;/*30.635px*/
+  line-height: 1.370980904em;/*42px / 30.635px*/
+  text-align: center;
+}
+h3{
+  font-size: 1.602em;/*28.833px*/
+  line-height: 1.4566642388929em;/*42px / 28.833px*/
+  padding-bottom: 0.20809489127em; /* 6px / 28.833px */
+  text-align: center;
+}
+
+p,
+b,
+ul {
+  padding-bottom: 1.22222222em; /* 22px */
+  line-height: 1.22222222em; /* 22px = 1 gridline*/
+}
+
+li {
+  padding-bottom: 0.61111111em; /* 11px = half gridline*/
+}
+
+li:last-child {
+  padding-bottom: 0;
+}
+
+img,
+video{
+  display: block;
+  max-width: 70%;
+  padding: 0.33333333em; /* 6px padding */
+}
+
+
+/* ===== LAYOUT STYLES =====*/
+#header{
+  padding:  0.33333333em; /* 6px padding */
+  position: relative;
+}
+#nav{
+  padding:  0.33333333em; /* 6px padding */;
+}
+#footer{
+  padding:  0.33333333em; /* 6px padding */;
+  font-size: 0.694em; /* 12.5px */
+}
+/* ===== MODULAR STYLES ===== */
+.navbar {
+  display: inline;
+  position: relative;
+}
+
+.progress,
+.inspiration,
+.main,
+.homepage {
+  padding: 2.33333em; /* 42 px / 18 px */
+}
+
+.stories,
+.poetry {
+ background-color: #a6a6a6;
+}
+
+
+.poem {
+  text-align: center;
+  padding: 2.33333em; /* 42 px / 18 px */
+}
+
+.story {
+  padding: 2.33333em; /* 42 px / 18 px */
+}
+
+.face {
+
+}
+
+/* ===== STATE STYLES ===== */
+
+
+
+
+
+
+
