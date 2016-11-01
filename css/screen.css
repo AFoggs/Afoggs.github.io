@@ -18,31 +18,33 @@ html {
   font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", sans-serif;
   font-size: 1.125em; /* 18px */
   line-height: 1.22222222em; /* 22px = 1 gridline*/
-  background-color: #b3b3b3;
+  background-color: #636262;
   padding: 0.55555555em; /* 10px / 18 px */
+  margin: 0 auto;
 }
 h1{
   font-size: 2.027em; /*36.491px*/
   line-height: 1.150968732em; /*42px / 36.491px*/
-  text-align: center;
+  padding-bottom: 0.548080348em; /* 20px / 36.491 px */
 }
 h2{
   font-size: 1.802em;/*30.635px*/
   line-height: 1.370980904em;/*42px / 30.635px*/
-  text-align: center;
+
 }
 h3{
   font-size: 1.602em;/*28.833px*/
   line-height: 1.4566642388929em;/*42px / 28.833px*/
   padding-bottom: 0.20809489127em; /* 6px / 28.833px */
-  text-align: center;
+
 }
 
 p,
 b,
 ul {
-  padding-bottom: 1.22222222em; /* 22px */
+ /* padding-bottom: 1.22222222em; /* 22px */ 
   line-height: 1.22222222em; /* 22px = 1 gridline*/
+  
 }
 
 li {
@@ -75,7 +77,7 @@ video{
 }
 /* ===== MODULAR STYLES ===== */
 .navbar {
-  display: inline;
+  display: inline-block;
   position: relative;
 }
 
@@ -88,7 +90,7 @@ video{
 
 .stories,
 .poetry {
- background-color: #a6a6a6;
+ background-color: #b3b3b3;
 }
 
 
@@ -101,10 +103,13 @@ video{
   padding: 2.33333em; /* 42 px / 18 px */
 }
 
-.face {
-
+.rsm {
+  text-align: center;
 }
 
+.face {
+  align-content: center;
+}
 /* ===== STATE STYLES ===== */
 
 
