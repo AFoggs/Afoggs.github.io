@@ -196,6 +196,17 @@ audio {
 }
 
 
+.poem-photo {
+  display:block;
+  float:right;
+  max-width: 33.33%;
+}
+
+ol.poem {
+  display:block;
+  float:left;
+}
+
 }
 
 
