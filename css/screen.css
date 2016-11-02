@@ -22,6 +22,7 @@ html {
   padding-left: 3.384615384615384615%; /* 22px / 650 px */
   padding-right: 3.384615384615384615%; /* 22px / 650 px */
   margin: 0 auto;
+  max-width: 100%;
 }
 h1{
   font-size: 2.333em; /*37.435px @ 16px*/
@@ -45,6 +46,7 @@ h3{
 p,
 b,
 i,
+strong,
 ul {
   padding-bottom: 1.222em; /* 22px */ 
   
@@ -73,7 +75,7 @@ video{
   position: relative;
 }
 #nav{
-  float: center;
+  text-align: center;
 }
 
 #footer{
@@ -92,7 +94,20 @@ video{
 .inspiration,
 .main,
 .homepage {
+  text-align:center;
+}
 
+li.info {
+  list-style: disc;
+  
+}
+
+p.info {
+  font-style: italic;
+}
+
+h2.info{
+  padding-top: 1.222em;
 }
 
 .stories,
@@ -115,7 +130,9 @@ video{
 }
 
 .face {
-  align-content: center;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* ===== STATE STYLES ===== */
 
