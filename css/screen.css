@@ -147,14 +147,56 @@ h2.info{
 
 */
 
-#Primary {
+@media screen and (min-width: 650px) {
+
+.music-photo {
+  display:block;
+  float:left;
+  max-width: 50%;
+}
+
+audio {
+  display:block;
+  max-width: 50%;
+  clear:both;
+  float: right;
 
 }
 
-#Secondary {
+p,
+h1,
+h2,
+h3 {
+  clear: both;
+}
+
+.song-title {
+  float: right;
+}
+
+
+@media screen and (min-width: 1200px) {
+
+.music-photo {
+  display:block;
+  float:left;
+  max-width: 50%;
+}
+
+audio {
+  display:block;
+  max-width: 50%;
+  float: right;
 
 }
 
+
+.song-title{
+  float: right;
+}
+
+
+}
 
 
 
