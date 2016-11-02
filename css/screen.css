@@ -73,17 +73,20 @@ video{
   position: relative;
 }
 #nav{
- /* padding:  0.33333333em; /* 6px padding */;
+  float: center;
 }
+
 #footer{
  /* padding:  0.33333333em; /* 6px padding */;
   font-size: 0.694em; /* 12.5px */
 }
 /* ===== MODULAR STYLES ===== */
+.navbarH,
 .navbar {
   display: inline-block;
   position: relative;
 }
+
 
 .progress,
 .inspiration,
